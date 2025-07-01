@@ -2,7 +2,7 @@ aspiring software engineer with a vision for the future.
 Currently honing my skills in coding and problem-solving,
 I aim to contribute innovative solutions to the tech industry.
 
-🔧 Skills Proficient in C++, CSS, HTML , JAVASCRIPT.
+🔧 Skills Proficient in C++, Bash, SQL, Phython.
 
 
 Future Goals I aspire to become a software engineer at
