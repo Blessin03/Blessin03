@@ -1,4 +1,4 @@
-aspiring software engineer with a vision for the future.
+aspiring software engineer.
 Currently honing my skills in coding and problem-solving,
 I aim to contribute innovative solutions to the tech industry.
 
